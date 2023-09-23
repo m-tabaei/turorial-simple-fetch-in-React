@@ -1,4 +1,4 @@
-# turorial-simple-fetch-in-React
+# tutorial-simple-fetch-in-React
 
  It makes use of two important React principles: `useState` and `useEffect`.
 
